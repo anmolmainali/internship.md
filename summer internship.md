@@ -12,12 +12,18 @@ This repository contains the documentation and resources related to my one-month
 - **Grades Covered:** 6th,7th,8th and 9th.
 
 ---
-
+---
+## Student Information:
+ - **Name:** Anmol Mainali
+ - **class:** III B.S.Physics(Hons)
+ - **Regd no:** 233220
+ - **Institute:** Sri Sathya Sai Institute of Higher Learning,
+                   Andhra Pradesh,515134,India.
 ##  Roles & Responsibilities
-- Conducted 20 sessions in Physics and Mathematics weekly
-- Designed lesson plans and prepared worksheets
-- Assisted in morning assemblies and student mentoring
-- Participated in faculty meetings and exam duties
+- Conducted 20 sessions in Mathematics weekly.
+- Designed lesson plans and prepared worksheets.
+- Assisted in morning assemblies and student mentoring.
+- Participated in faculty meetings and exam duties.
 
 ---
 
